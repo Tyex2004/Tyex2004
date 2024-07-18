@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tyex2004, a senior high school student in Canton, China.
+- 👋 Hi, I’m @Tyex2004, living in Canton, China.
 - 👀 I’m interested in city developing (especially transit), cube, music, calligraphy and computer.
 - 🌱 I’m currently learning in GDUT (Guangdong University of Technology)
 - 💞️ I’m looking to collaborate on BVE mods developmet.
