@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tyex2004, living in Canton, China.
-- 👀 I’m interested in city developing (especially transit), cube, music, calligraphy and computer.
+- 👀 I’m a GISer, programming with python and C# as well.
 - 🌱 I’m currently learning in GDUT (Guangdong University of Technology)
 - 💞️ I’m looking to collaborate on BVE mods developmet.
 - 📫 How to reach me? You can search my QQ number 2110036678, my bilibili 420412587, my facebook name Tyex or my Instagram tyextam.
